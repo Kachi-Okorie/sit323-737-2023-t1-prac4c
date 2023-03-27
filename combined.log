@@ -1,0 +1,7 @@
+{"level":"info","message":"Parameters 40 and 40 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 40 and 50 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 90 and 50 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 90 and 50 received for subtraction","service":"calculate-service"}
+{"level":"info","message":"Parameters 90 and 50 received for multiplication","service":"calculate-service"}
+{"level":"info","message":"Parameters 90 and 50 received for division","service":"calculate-service"}
+{"level":"info","message":"Parameters 90 and 50 received for addition","service":"calculate-service"}
