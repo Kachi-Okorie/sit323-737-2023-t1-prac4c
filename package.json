@@ -18,5 +18,14 @@
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^6.3.0",
     "winston": "^3.8.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kachi-Okorie/sit323-737-2023-t1-prac4c.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kachi-Okorie/sit323-737-2023-t1-prac4c/issues"
+  },
+  "homepage": "https://github.com/Kachi-Okorie/sit323-737-2023-t1-prac4c#readme"
 }

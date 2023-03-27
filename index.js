@@ -9,7 +9,7 @@ const express = require("express"),
   User = require("./models/user"),
   bodyParser = require("body-parser");
 
-  const uri = "mongodb+srv://Kachi:prac5@cluster0.udrpgld.mongodb.net/?retryWrites=true&w=majority"
+  const uri = "mongodb+srv://Kachi2:EexvvnM8RTtOF3bA@cluster0.2ifezbo.mongodb.net/?retryWrites=true&w=majority"
 
 mongoose
     .connect(uri, { useUnifiedTopology: true, useNewUrlParser: true })
